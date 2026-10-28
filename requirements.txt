@@ -1,0 +1,5 @@
+qiskit[visualization]==2.6.1
+qiskit-aer==0.18.2
+numpy==2.5.4
+sympy==1.14.0
+ipykernel==7.4.0
